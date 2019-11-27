@@ -11,6 +11,7 @@ namespace C2
             for(;i<5;i++)
             {
                 Console.Write("Sab Hile Hue hai Ji \n"+i);
+                //Truth Triumphs
                 if(i>2)
                 {
                     Console.Write(i);
