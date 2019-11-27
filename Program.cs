@@ -4,7 +4,7 @@ namespace C2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) //init
         {
             int i = 1;
             Console.Write(i); //Prinitng 1
