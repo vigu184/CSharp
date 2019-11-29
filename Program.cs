@@ -1,22 +1,13 @@
 ﻿using System;
 
-namespace C2
+namespace C3
 {
     class Program
     {
-        static void Main(string[] args) //in
+        static void Main(string[] args)
         {
-            int i = 1;
-            Console.Write(i); //Prinitng 1sd
-            for(;i<5;i++)
-            {
-                Console.Write("Sab Hile Hue Hai Ji \n"+i);
-                //Truth Triumphs
-                if(i>2)
-                {
-                    Console.Write(i);
-                }
-            }
+            float d = 6/12 * 3; //Integer Ops
+            Console.WriteLine(d);
         }
     }
 }
