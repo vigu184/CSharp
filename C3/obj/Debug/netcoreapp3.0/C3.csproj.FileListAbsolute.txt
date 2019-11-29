@@ -1,0 +1,11 @@
+C:\Users\Vignesh\source\repos\C3\bin\Debug\netcoreapp3.0\C3.exe
+C:\Users\Vignesh\source\repos\C3\bin\Debug\netcoreapp3.0\C3.deps.json
+C:\Users\Vignesh\source\repos\C3\bin\Debug\netcoreapp3.0\C3.runtimeconfig.json
+C:\Users\Vignesh\source\repos\C3\bin\Debug\netcoreapp3.0\C3.runtimeconfig.dev.json
+C:\Users\Vignesh\source\repos\C3\bin\Debug\netcoreapp3.0\C3.dll
+C:\Users\Vignesh\source\repos\C3\bin\Debug\netcoreapp3.0\C3.pdb
+C:\Users\Vignesh\source\repos\C3\obj\Debug\netcoreapp3.0\C3.csprojAssemblyReference.cache
+C:\Users\Vignesh\source\repos\C3\obj\Debug\netcoreapp3.0\C3.AssemblyInfoInputs.cache
+C:\Users\Vignesh\source\repos\C3\obj\Debug\netcoreapp3.0\C3.AssemblyInfo.cs
+C:\Users\Vignesh\source\repos\C3\obj\Debug\netcoreapp3.0\C3.dll
+C:\Users\Vignesh\source\repos\C3\obj\Debug\netcoreapp3.0\C3.pdb
