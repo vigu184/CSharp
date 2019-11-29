@@ -10,7 +10,7 @@ namespace C2
             Console.Write(i); //Prinitng 1
             for(;i<5;i++)
             {
-                Console.Write("Sab Hile Hue hai Ji \n"+i);
+                Console.Write("Sab Hile Hue Hai Ji \n"+i);
                 //Truth Triumphs
                 if(i>2)
                 {
