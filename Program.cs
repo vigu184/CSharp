@@ -7,7 +7,7 @@ namespace C2
         static void Main(string[] args) //in
         {
             int i = 1;
-            Console.Write(i); //Prinitng 1
+            Console.Write(i); //Prinitng 1sd
             for(;i<5;i++)
             {
                 Console.Write("Sab Hile Hue Hai Ji \n"+i);
